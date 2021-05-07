@@ -2,6 +2,8 @@
 
 Just a simple .tex image to get the Standard Model diagram.
 
+![sm](figs/standard-model.png)
+
 ## Author
 
 * **Matic Lubej***
