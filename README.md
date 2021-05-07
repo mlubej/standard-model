@@ -1,12 +1,12 @@
 # Standard Model LaTeX images
 
-Just a simple .tex image to get the Standard Model diagram.
+Just a simple .tex file to get the Standard Model diagram.
 
 ![sm](figs/standard-model.png)
 
 ## Author
 
-* **Matic Lubej***
+- Matic Lubej
 
 ## License
 
